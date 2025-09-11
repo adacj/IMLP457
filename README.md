@@ -1,2 +1,2 @@
-# IMLP_2025
+# IMLP457
 Machine Learning with Python course
