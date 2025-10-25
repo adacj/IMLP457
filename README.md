@@ -12,5 +12,5 @@ Machine Learning with Python course
 - [Unit05-1](https://github.com/adacj/IMLP457/blob/main/Unit05_02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)
 - [Unit06-1](https://github.com/adacj/IMLP457/blob/main/Unit06_1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb)
 - [Unit06-2](https://github.com/adacj/IMLP457/blob/main/Unit06_2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)
-- [Unit07]
-- [Unit08]
+- [Unit07](https://github.com/adacj/IMLP457/blob/main/Unit07_4_Kmeans_Image%20segmentation_%E5%AF%A6%E6%88%B0.ipynb)
+- [Unit08](https://github.com/adacj/IMLP457/blob/main/Unit08_3_PCA_Face%20Recognition.ipynb)
